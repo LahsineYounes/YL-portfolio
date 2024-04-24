@@ -74,6 +74,7 @@ template {
 }
 a {
   background-color: transparent;
+  color: white;
 }
 a:active,
 a:hover {
